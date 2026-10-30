@@ -1,0 +1,1 @@
+V1 of Josephs Game assets kit, a collection of useful scripts, fonts, and sprites that i use often at the start of a unity project
